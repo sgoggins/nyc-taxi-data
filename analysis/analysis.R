@@ -9,6 +9,7 @@ library(grid)
 library(RPostgreSQL)
 library(rgdal)
 library(maptools)
+library(gpclib)
 gpclibPermit()
 source("helpers.R")
 
